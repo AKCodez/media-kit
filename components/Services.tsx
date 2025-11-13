@@ -8,9 +8,9 @@ export default function Services() {
   ]
 
   return (
-    <section className="py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-transparent to-purple-900/20">
+    <section className="py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-transparent to-purple-900/20">
       <div className="max-w-7xl mx-auto">
-        <h2 className="text-4xl sm:text-5xl font-bold text-center mb-16">
+        <h2 className="text-4xl sm:text-5xl font-bold text-center mb-8">
           <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">Collaboration Opportunities</span>
         </h2>
         

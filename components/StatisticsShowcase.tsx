@@ -10,12 +10,12 @@ export default function StatisticsShowcase() {
   ]
 
   return (
-    <section className="py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-transparent to-purple-900/20">
+    <section className="py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-transparent to-purple-900/20">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl sm:text-5xl font-bold text-center mb-4">
           <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">Analytics Dashboard</span>
         </h2>
-        <p className="text-center text-gray-400 mb-16">Oct 13 - Nov 12, 2024</p>
+        <p className="text-center text-gray-400 mb-8">Oct 13 - Nov 12, 2024</p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {stats.map((stat, index) => (

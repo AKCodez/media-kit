@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="py-24 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
+    <footer className="py-12 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-purple-900/50 via-pink-900/50 to-black"></div>
       

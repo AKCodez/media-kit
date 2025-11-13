@@ -47,7 +47,7 @@ export default function Hero() {
         
         {/* About */}
         <p className="text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-12">
-          Full-stack engineer and content creator focused on technology, productivity, and the &quot;work-from-anywhere&quot; lifestyle. My audience consists of highly-engaged developers, tech professionals, and digital nomads who are passionate about high-value tools and experiences.
+          Content creator showcasing premium travel experiences and the &quot;work-from-anywhere&quot; lifestyle. My highly-engaged audience of tech professionals and digital nomads seeks luxury accommodations, making them ideal guests for world-class resorts.
         </p>
         
         {/* Scroll Indicator */}
